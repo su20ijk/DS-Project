@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
 <?import javafx.scene.layout.AnchorPane?>
 
-<AnchorPane xmlns:fx="http://javafx.com/fxml/1">
-	<!-- TODO Add Nodes -->
+<AnchorPane prefHeight="713.0" prefWidth="848.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2">
+  <!-- TODO Add Nodes -->
+  <children>
+    <Pane layoutX="0.0" layoutY="0.0" prefHeight="713.0" prefWidth="267.0">
+      <children>
+        <TextArea layoutX="14.0" layoutY="14.0" prefHeight="685.0" prefWidth="239.0" wrapText="true" />
+      </children>
+    </Pane>
+    <Pane layoutX="267.0" layoutY="0.0" prefHeight="713.0" prefWidth="295.0">
+      <children>
+        <Button layoutX="14.0" layoutY="14.0" mnemonicParsing="false"  prefHeight="63.941506249997474" prefWidth="124.0" text="Button1" />
+        <Button layoutX="157.0" layoutY="14.0" mnemonicParsing="false" prefHeight="63.94160624999495" prefWidth="124.0001220703125" text="Button2" />
+        <Button layoutX="14.0" layoutY="94.0" mnemonicParsing="false" prefHeight="63.941506249997474" prefWidth="124.0" text="Button3" />
+        <Button layoutX="157.0" layoutY="94.0" mnemonicParsing="false" prefHeight="63.94160624999495" prefWidth="124.0001220703125" text="Button4" />
+      </children>
+    </Pane>
+    <Pane layoutX="562.0" layoutY="0.0" prefHeight="713.0" prefWidth="279.0">
+      <children>
+        <TextArea layoutX="20.0" layoutY="14.0" prefHeight="685.0" prefWidth="239.0" wrapText="true" />
+      </children>
+    </Pane>
+  </children>
 </AnchorPane>
-
