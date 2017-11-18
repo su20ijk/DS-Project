@@ -9,7 +9,7 @@
   <!-- TODO Add Nodes -->
   <children>
     <Pane layoutX="14.0" layoutY="14.0" prefHeight="747.0" prefWidth="272.0">
-      <children>
+      <children> 
         <TextArea layoutX="14.0" layoutY="14.0" prefHeight="719.0" prefWidth="244.0" wrapText="true" />
       </children>
     </Pane>
