@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="C:/Program Files (x86)/eclipse2017/eclipse/plugins/org.eclipse.osgi_3.11.2.v20161107-1947.jar" sourcepath="C:/Program Files (x86)/eclipse2017/eclipse/plugins/org.eclipse.osgi_3.11.2.v20161107-1947.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files (x86)/eclipse2017/eclipse/plugins/org.eclipse.core.commands_3.8.0.v20160316-1921.jar" sourcepath="C:/Program Files (x86)/eclipse2017/eclipse/plugins/org.eclipse.core.commands_3.8.0.v20160316-1921.jar"/>
